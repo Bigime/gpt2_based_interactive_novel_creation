@@ -1,1 +1,1 @@
-# GPT-2-based-one-on-one-interactive-novel-creation-
+# gpt2_based_one_on_one_interactive_novel_creation-
