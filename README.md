@@ -20,3 +20,6 @@
 ![image](https://github.com/user-attachments/assets/f0b235e0-4c15-43be-9f69-77cded0b7146)
 
 
+### 보완할 점
+1. 파인튜닝할 때 Q&A task 뿐만 아니라 여러 task를 동시에 수행할 수 있도록 손실함수를 구성해서 성능 향상 가능
+2. 다중 task LLM 고려
